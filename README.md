@@ -2,7 +2,7 @@
 Understanding which model performs better with respect to your dataset and objective is a critical step in machine learning.
 Moreover, it is crucial to know how to make your particular model perform better than usual.
 
-In this challenge, we will explore the concepts of overfitting, underfitting and cross validation over a variety of models we have studied so far via visualization and understand how to improve a model's performance using techniques like regularization, early stopping and most importantly, hyperparameter tuning.
+In this challenge, we will explore the concepts of overfitting, underfitting and cross validation over a variety of models we have studied so far via visualization and understand how to improve a model's performance using techniques like regularization and basic hyperparameter tuning.
 
 ### How to use
 

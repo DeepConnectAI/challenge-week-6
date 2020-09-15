@@ -7,8 +7,10 @@ In this challenge, we will explore the concepts of overfitting, underfitting and
 ### How to use
 
 #### Colab
-Open task 1 notebook in colab: &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepConnectAI/challenge-week-6/blob/master/task_1_linear_reg.ipynb)<br>
-Open task 2 notebook in colab: &emsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DeepConnectAI/challenge-week-6/blob/master/task_2_dt_log.ipynb)
+```python
+# Open a new notebook in colab and run the below command to import the entire repository for proper functioning of the notebooks
+!git clone https://github.com/DeepConnectAI/challenge-week-6.git
+```
 
 How to get the data using wget?
 ```python

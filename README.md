@@ -8,7 +8,8 @@ In this challenge, we will explore the concepts of overfitting, underfitting and
 
 #### Colab
 ```python
-# Open a new notebook in colab and run the below command to \nimport the entire repository for proper functioning of the notebooks
+# Open a new notebook in colab and run the below command to 
+# import the entire repository for proper functioning of the notebooks
 !git clone https://github.com/DeepConnectAI/challenge-week-6.git
 ```
 
